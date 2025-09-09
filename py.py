@@ -1,1 +1,1 @@
-print("Ik moet poepen" * 1000000)
+print("Ik moet poepen " * 10000000000000000000000000)
